@@ -11,6 +11,7 @@ ntre_ghost_ctg
 ntre_isolation_ctg
 ntre_marketa_ctg
 ntre_oilstain_ctg
+ntre_oliostain_ctg_b2
 ntre_pissalley_ctg
 ntre_redlight_ctg
 ntre_ridgeline_ctg
@@ -32,7 +33,6 @@ regu_chamber_v2
 nt_culvert_ctg_b5f
 nt_envoy_ctg
 nt_grid_ctg_b2
-nt_oliostain_ctg_b3f5
 nt_snowfall_ctg_b12
 nt_tetsu_ctg_b6f
 nt_tetsujin_ctg
