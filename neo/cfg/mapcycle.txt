@@ -42,6 +42,7 @@ nt_exports_ctg_a3
 nt_pagoda_ctg_fix_a2
 nt_recom_ctg_a10
 nt_recom_ctg_a10_tunnel
+nt_saitama_redux_ctg_a19
 nt_shinkansen_ctg
 nt_tetsu_ctg_b6f
 nt_tetsujin_ctg
