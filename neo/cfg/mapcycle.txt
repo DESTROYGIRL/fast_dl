@@ -10,6 +10,7 @@ ntre_dusk_ctg
 ntre_engage_ctg
 ntre_ghost_ctg
 ntre_grid_ctg_b2
+ntre_grid_ctg_b3
 ntre_isolation_ctg
 ntre_marketa_ctg
 ntre_oilstain_ctg
@@ -33,6 +34,7 @@ ntre_transit_ctg
 ntre_vtol_ctg
 ntre_yard_jgr
 regu_chamber_v2
+nt_chome_ctg_a4
 nt_club_ctg_beta07_v10
 nt_commute_ctg_b3
 nt_culvert_ctg_b7
@@ -40,6 +42,8 @@ nt_dew_ctg_b1f
 nt_district5_ctg_a4
 nt_envoy_ctg
 nt_exports_ctg_a3
+nt_fushi_ctg_a2
+nt_now
 nt_pagoda_ctg_fix_a2
 nt_recom_ctg_a10
 nt_recom_ctg_a10_tunnel
