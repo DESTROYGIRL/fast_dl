@@ -43,6 +43,7 @@ nt_dew_ctg_b2_stella250525
 nt_district5_ctg_a4
 nt_envoy_ctg
 nt_exports_ctg_a3
+nt_foyer_ctg_b4
 nt_fushi_ctg_a2
 nt_now
 nt_pagoda_ctg_fix_a2
