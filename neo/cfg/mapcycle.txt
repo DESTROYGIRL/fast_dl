@@ -54,4 +54,5 @@ nt_shinkansen_ctg
 nt_tetsu_ctg_b6f
 nt_tetsujin_ctg
 nt_turmuktu_ctg_a2
+nt_yuzu_ctg_a2_test_v3
 nt_zaibatsu_ctg
