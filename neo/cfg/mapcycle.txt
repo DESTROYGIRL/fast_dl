@@ -45,6 +45,7 @@ nt_envoy_ctg
 nt_exports_ctg_a3
 nt_foyer_ctg_b4
 nt_fushi_ctg_a2
+nt_hebi_ctg_b2
 nt_now
 nt_pagoda_ctg_fix_a2
 nt_recom_ctg_a10
